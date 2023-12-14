@@ -2,7 +2,7 @@
 
 #include "lora_sx126x.h"
 
-#include <SX126x-Arduino.h>
+#include <SX126x_Arduino.h>
 #include <SPI.h>
 
 // Tag for log output.
